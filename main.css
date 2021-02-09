@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(124,46,191,255);
+}
+
+#main-image{
+    float:right;
+    width: 1000px;
+    height: 100px;
+}
