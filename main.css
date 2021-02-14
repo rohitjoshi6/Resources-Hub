@@ -63,3 +63,7 @@ section{display: flex;}
 
 .right img{width:700px;
     height:400px;}
+
+button{
+    text-decoration:black;
+}    
