@@ -32,7 +32,7 @@ nav ul li a{
     color:black;
     padding: 30px;
 }
-
+/* Top section */
 #heading{
     color:black;
     padding-left: 70px;
@@ -79,8 +79,49 @@ section{display: flex;}
     background: linear-gradient(57deg, #1e4d92,#00c6a7);
 }
 
-#contribute .left img{
-    width:700px;
-    height:400px;
+/* Contribution section */
+
+section .contibution{display: flex;}
+
+.contribution-steps-right{width: 40%; height:300px; color:white;
+    text-align: center; margin-top: 0px; padding: 40px;
+    padding-left: 240px;
 }
+    
+.contribution-steps-right h3{
+    font-size: 30px; font-weight: 30px;
+    text-transform: uppercase;
+    color:black;
+    
+    }
+    
+.contribution-steps-right ol{
+    font-size: 17.6px;
+    line-height: 25px;
+    padding: 15px 0;
+    color:black;
+    list-style: none;
+    
+}
+
+.contribution-steps-left{width: 60%; height:auto; 
+    overflow:hidden; margin-top: 20px;
+    
+}
+
+.contribution-steps-left img{width:700px;
+    height:400px;}
+
+.footer-container{
+    padding:20px;
+    text-decoration: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background: #F0F4F7;
+	background: #E1E5E9;
+}
+
+
+
+    
 
