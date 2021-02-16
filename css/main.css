@@ -74,10 +74,12 @@ section{display: flex;}
         border-radius: 4px;
         padding:20px 35px;
         
+        
 }
     
 .left button:hover{
     background: linear-gradient(57deg, #1e4d92,#00c6a7);
+    
 }
 
 /* Contribution section */
