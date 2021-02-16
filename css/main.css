@@ -111,7 +111,8 @@ section .contibution{display: flex;}
 }
 
 .contribution-steps-left img{width:700px;
-    height:400px;}
+    height:400px;
+padding-left: 40px;}
 
 .footer-container{
     padding:20px;
