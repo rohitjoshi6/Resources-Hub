@@ -68,11 +68,12 @@ section{display: flex;}
 .left button{
         font-size: 17px;
         font-weight: bold;
-        color:white;
+        color:whitesmoke;
         text-transform: uppercase;
         background: linear-gradient(57deg, #00c6a7, #1e4d92);
         border-radius: 4px;
         padding:20px 35px;
+        
 }
     
 .left button:hover{
